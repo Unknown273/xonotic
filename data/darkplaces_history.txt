@@ -1,0 +1,11 @@
+clear
+ls
+clear
+pwd
+ls
+cd ls
+exit
+vid_width 1080
+vid_height 1920
+vid_restart
+vid_restart
